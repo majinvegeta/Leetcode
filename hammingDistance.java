@@ -29,6 +29,6 @@ int hammingDistance(int x,int y){
 }
 
 /* Applications - The term n & (n-1) can be used to check if the number is a power of 2. 
-   All powers of 2 are of the for 100000.....0. Hence, if the number is a power of 2,
+   All powers of 2 are of the form 100000.....0. Hence, if the number is a power of 2,
    the value of n & (n-1) will be 0.
 */
